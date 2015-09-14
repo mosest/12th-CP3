@@ -1,0 +1,11 @@
+20140511_183335: Connection #1 (CSE2-142/10.32.61.142) received
+20140511_183335: Connection #2 (CSE2-142/10.32.61.142) received
+20140511_183336: Connection #3 (CSE2-142/10.32.61.142) received
+20140511_183337: Connection #4 (CSE2-142/10.32.61.142) received
+20140511_183338: Connection #5 (CSE2-142/10.32.61.142) received
+20140511_183338: Connection #6 (CSE2-142/10.32.61.142) received
+20140511_183339: Connection #7 (CSE2-142/10.32.61.142) received
+20140511_183340: Connection #8 (CSE2-142/10.32.61.142) received
+
+a factor found by Connection #4!! factor = 17
+a factor found by Connection #6!! factor = 23

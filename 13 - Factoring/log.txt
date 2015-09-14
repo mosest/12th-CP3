@@ -1,0 +1,17 @@
+20140510_160121: Connection #1 (CSE2-149/10.32.61.149) received
+20140510_160125: Connection #2 (CSE2-157/10.32.61.157) received
+20140510_160208: Connection #3 (CSE2-146/10.32.61.146) received
+20140510_160300: Connection #4 (CSE2-150/10.32.61.150) received
+20140510_160431: Connection #5 (CSE2-151/10.32.61.151) received
+20140510_160501: Connection #6 (CSE2-147/10.32.61.147) received
+20140510_160603: Connection #7 (CSE2-153/10.32.61.153) received
+20140510_160718: Connection #8 (CSE2-143/10.32.61.143) received
+
+20140510_160805: Connection #1 starts checking factors 10000000001-20000000000
+20140510_160805: Connection #2 starts checking factors 20000000001-30000000000
+20140510_160805: Connection #3 starts checking factors 30000000001-40000000000
+20140510_160805: Connection #4 starts checking factors 40000000001-50000000000
+20140510_160805: Connection #5 starts checking factors 50000000001-60000000000
+20140510_160805: Connection #6 starts checking factors 60000000001-70000000000
+20140510_160805: Connection #7 starts checking factors 70000000001-80000000000
+20140510_160805: Connection #8 starts checking factors 80000000001-99999999999
